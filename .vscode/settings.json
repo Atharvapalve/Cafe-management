@@ -1,0 +1,12 @@
+{
+    "css.validate": false,
+    "tailwindCSS.emmetCompletions": true,
+    "python.analysis.extraPaths": ["${workspaceFolder}"],
+    "tailwindCSS.includeLanguages": {
+      "plaintext": "html"
+    },
+    "editor.quickSuggestions": {
+      "strings": true
+    }
+    
+  }
